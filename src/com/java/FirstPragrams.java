@@ -2,6 +2,6 @@ package com.java;
 
 public class FirstPragrams {
 	void print() {
-		System.out.println("Welcome back to github session");	
+		System.out.println("Welcome to the  github the session");	
 		}
 }
